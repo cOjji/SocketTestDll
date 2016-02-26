@@ -1,0 +1,4 @@
+Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketTestDll\SocketLibrary\bin\Debug\SocketLibrary.dll
+Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketTestDll\SocketLibrary\bin\Debug\SocketLibrary.pdb
+Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketTestDll\SocketLibrary\obj\Debug\SocketLibrary.dll
+Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketTestDll\SocketLibrary\obj\Debug\SocketLibrary.pdb
