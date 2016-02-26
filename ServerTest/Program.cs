@@ -18,6 +18,8 @@ namespace ServerTest
             TcpListener tcpListener = new TcpListener(address, 9000);
             tcpListener.Start();
 
+            int xd = 12; //github muutos, turha
+
             bool ok = true;
             
             while(ok)

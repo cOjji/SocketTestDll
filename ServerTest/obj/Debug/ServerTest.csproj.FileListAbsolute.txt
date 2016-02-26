@@ -18,3 +18,11 @@ Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketTestDll\ServerTest\obj\Debug\S
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketTestDll\ServerTest\obj\Debug\ServerTest.pdb
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketTestDll\ServerTest\bin\Debug\SocketLibrary.dll
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketTestDll\ServerTest\bin\Debug\SocketLibrary.pdb
+C:\tmp\New\SocketTestDll\ServerTest\bin\Debug\ServerTest.exe.config
+C:\tmp\New\SocketTestDll\ServerTest\bin\Debug\ServerTest.exe
+C:\tmp\New\SocketTestDll\ServerTest\bin\Debug\ServerTest.pdb
+C:\tmp\New\SocketTestDll\ServerTest\bin\Debug\SocketLibrary.dll
+C:\tmp\New\SocketTestDll\ServerTest\bin\Debug\SocketLibrary.pdb
+C:\tmp\New\SocketTestDll\ServerTest\obj\Debug\ServerTest.csprojResolveAssemblyReference.cache
+C:\tmp\New\SocketTestDll\ServerTest\obj\Debug\ServerTest.exe
+C:\tmp\New\SocketTestDll\ServerTest\obj\Debug\ServerTest.pdb

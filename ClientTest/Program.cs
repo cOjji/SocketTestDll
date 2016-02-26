@@ -22,6 +22,7 @@ namespace ClientTest
 
             while (true)
             {
+                Console.WriteLine("Muutos github tehtavia varten");
                 Console.WriteLine("Anna komento");
                 string komento = Console.ReadLine();
 

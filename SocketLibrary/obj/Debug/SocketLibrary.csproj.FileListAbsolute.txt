@@ -2,3 +2,8 @@ Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketTestDll\SocketLibrary\bin\Debu
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketTestDll\SocketLibrary\bin\Debug\SocketLibrary.pdb
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketTestDll\SocketLibrary\obj\Debug\SocketLibrary.dll
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketTestDll\SocketLibrary\obj\Debug\SocketLibrary.pdb
+C:\tmp\New\SocketTestDll\SocketLibrary\bin\Debug\SocketLibrary.dll
+C:\tmp\New\SocketTestDll\SocketLibrary\bin\Debug\SocketLibrary.pdb
+C:\tmp\New\SocketTestDll\SocketLibrary\obj\Debug\SocketLibrary.csprojResolveAssemblyReference.cache
+C:\tmp\New\SocketTestDll\SocketLibrary\obj\Debug\SocketLibrary.dll
+C:\tmp\New\SocketTestDll\SocketLibrary\obj\Debug\SocketLibrary.pdb
